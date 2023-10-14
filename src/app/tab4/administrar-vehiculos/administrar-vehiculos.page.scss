@@ -1,0 +1,20 @@
+.botonDetalles {
+    font-size: 80%;
+    margin:10px;
+    padding: 10px;
+    float: right;
+  }
+
+.CardVehiculo{
+  margin: auto;
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #FFB800;
+}
+
+.selected-card {
+  border: 2px solid var(--ion-color-primary); 
+}
